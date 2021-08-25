@@ -17,7 +17,7 @@ def check_Word():
     try:
         print('>>', Meaning(word))
     except Exception:
-        print(f"Word \"{word}\" not found!")
+        print(f">> Word \"{word}\" not found!")
     print()
 
 
