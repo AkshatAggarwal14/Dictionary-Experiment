@@ -1,2 +1,8 @@
 # Dictionary-Experiment
-Experimenting with an Open Dictionary API
+Uses an [Open Dictionary API](https://dictionaryapi.dev/) to find the meaning of words input by user until user wants.
+
+## Dependencies
+`python library: ` requests
+
+### Authors
+Contributors : Akshat Aggarwal
